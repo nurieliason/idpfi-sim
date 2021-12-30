@@ -41,6 +41,7 @@ rc = 1
 # 24 hours 6 times same 4h cycle
 for j in range(1,7):
 # 4 hours test data
+# test github line
 #for j in range(1,2):
     for i in range(61, 85):
         rc_start = datetime.now()
